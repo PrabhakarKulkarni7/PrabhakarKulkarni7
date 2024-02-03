@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about -  **System design| Rest api | OS | CN | JIRA | MySql | Jmeter Testing **
+- 💬 Ask me about -  **System design| Rest api | OS | CN | JIRA | MySql | Jmeter Testing**
 
 - 📫 Contact me at - **kulkarni.7prabhakar@gmal.com**
 
