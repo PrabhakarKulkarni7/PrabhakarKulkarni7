@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about -  **System design| Rest api | OS | CN | JIRA | MySql | Jmeter Testing**
+- 💬 Ask me about - **System design| Rest api | OS | CN | JIRA | MySql | Jmeter Testing**
 
 - 📫 Contact me at - **kulkarni.7prabhakar@gmal.com**
 
-- ⚡ Fun fact **It's Encrypted. BSPNAO**
+- ⚡ Fun fact **It's Encrypted.BSPNAO**
 
 <p align="left">
 </p>
