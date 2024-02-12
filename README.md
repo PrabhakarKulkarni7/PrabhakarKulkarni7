@@ -1,5 +1,5 @@
 <h1 align="center">| Prabhakar S Kulkarni |</h1>
-<h3 align="center">Final year Information Science student with a passion for software development and a strong foundation in C++, Java and Web Development [MERN stack]</h3>
+<h3 align="center">Final year ISE student with a passion for software development and a strong foundation in C++, Java and Web Development [MERN stack]</h3>
 <img align="right" alt="coding" width="400" src="https://storage.googleapis.com/pai-images/5f668233a6254b4a9fb70c3ebfa81cae.jpeg">
 
 - 🌱 I’m currently learning **Node.js**
